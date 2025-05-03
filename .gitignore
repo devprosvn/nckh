@@ -5,3 +5,5 @@ __pycache__/
 LICENSE
 
 carla-v0_eval/
+
+output_logger/
