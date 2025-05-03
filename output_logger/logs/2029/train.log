@@ -1,0 +1,361 @@
+2025-05-03 22:52:13 INFO     Env running in port 2029
+2025-05-03 22:52:13 INFO     Connecting to Carla server at localhost:2029 (attempt 1/5)
+2025-05-03 22:52:19 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 22:52:19 INFO     Carla server connected on port 2029
+2025-05-03 22:52:19 INFO     Blueprints for vehicle.lincoln*: ['vehicle.lincoln.mkz2017']
+2025-05-03 22:52:19 INFO     Selected blueprint: vehicle.lincoln.mkz2017
+2025-05-03 22:52:20 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 22:52:20 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 22:52:23 DEBUG    Right Lane invasion! Episode cost 94 steps in route 0.
+2025-05-03 22:52:23 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 22:52:23 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 22:52:30 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 22:52:30 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 22:52:30 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 22:52:30 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 22:52:36 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 22:52:36 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 22:52:36 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 22:52:36 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 22:52:43 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 22:52:43 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 22:52:43 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 22:52:43 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 22:52:47 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 22:52:47 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 22:52:47 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 22:52:53 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 22:52:53 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 22:52:53 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 22:52:53 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 22:53:00 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 22:53:00 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 22:53:00 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 22:53:00 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 22:53:07 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 22:53:07 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 22:53:07 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 22:53:07 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 22:53:10 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 22:53:10 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 22:53:10 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 22:53:17 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 22:53:17 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 22:59:30 INFO     Env running in port 2029
+2025-05-03 22:59:30 INFO     Connecting to Carla server at localhost:2029 (attempt 1/5)
+2025-05-03 22:59:36 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 22:59:36 INFO     Carla server connected on port 2029
+2025-05-03 22:59:36 INFO     Blueprints for vehicle.lincoln*: ['vehicle.lincoln.mkz2017']
+2025-05-03 22:59:36 INFO     Selected blueprint: vehicle.lincoln.mkz2017
+2025-05-03 22:59:37 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 22:59:37 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 22:59:40 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 22:59:40 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 22:59:40 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 22:59:47 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 22:59:47 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 22:59:47 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 22:59:47 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 22:59:54 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 22:59:54 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 22:59:54 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 22:59:54 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:00:02 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:00:02 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:00:02 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:00:02 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:00:05 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:00:05 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:00:05 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:00:13 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:00:13 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:00:13 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:00:13 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:00:20 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 23:00:20 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 23:00:20 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 23:00:20 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:00:27 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:00:27 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:00:27 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:00:27 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:00:30 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:00:30 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:00:30 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:00:37 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:00:37 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:01:58 INFO     Env running in port 2029
+2025-05-03 23:01:58 INFO     Connecting to Carla server at localhost:2029 (attempt 1/5)
+2025-05-03 23:02:05 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:02:05 INFO     Carla server connected on port 2029
+2025-05-03 23:02:05 INFO     Blueprints for vehicle.lincoln*: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:02:05 INFO     Selected blueprint: vehicle.lincoln.mkz2017
+2025-05-03 23:02:05 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:02:05 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:02:08 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:02:08 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:02:08 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:02:15 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:02:15 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:02:15 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:02:15 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:02:23 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 23:02:23 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 23:02:23 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 23:02:23 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:02:30 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:02:30 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:02:30 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:02:30 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:02:33 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:02:33 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:02:33 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:02:40 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:02:40 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:02:40 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:02:40 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:02:47 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 23:02:47 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 23:02:47 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 23:02:47 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:02:54 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:02:54 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:02:54 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:02:54 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:02:58 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:02:58 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:02:58 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:03:05 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:03:05 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:07:50 INFO     Env running in port 2029
+2025-05-03 23:07:50 INFO     Connecting to Carla server at localhost:2029 (attempt 1/5)
+2025-05-03 23:07:56 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:07:56 INFO     Carla server connected on port 2029
+2025-05-03 23:07:56 INFO     Blueprints for vehicle.lincoln*: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:07:56 INFO     Selected blueprint: vehicle.lincoln.mkz2017
+2025-05-03 23:07:56 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:07:56 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:08:00 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:08:00 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:08:00 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:08:07 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:08:07 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:08:07 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:08:07 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:08:13 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 23:08:14 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 23:08:14 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 23:08:14 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:08:21 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:08:21 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:08:21 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:08:21 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:08:24 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:08:24 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:08:24 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:08:31 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:08:31 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:08:31 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:08:31 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:08:38 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 23:08:38 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 23:08:38 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 23:08:38 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:08:45 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:08:45 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:08:45 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:08:45 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:08:49 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:08:49 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:08:49 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:08:56 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:08:56 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:10:10 INFO     Env running in port 2029
+2025-05-03 23:10:10 INFO     Connecting to Carla server at localhost:2029 (attempt 1/5)
+2025-05-03 23:10:16 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:10:16 INFO     Carla server connected on port 2029
+2025-05-03 23:10:17 INFO     Blueprints for vehicle.lincoln*: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:10:17 INFO     Selected blueprint: vehicle.lincoln.mkz2017
+2025-05-03 23:10:17 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:10:17 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:10:20 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:10:20 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:10:20 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:10:27 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:10:27 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:10:27 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:10:27 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:10:35 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 23:10:36 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 23:10:36 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 23:10:36 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:10:41 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:10:41 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:10:41 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:10:41 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:10:44 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:10:44 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:10:44 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:10:49 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:10:49 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:10:49 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:10:49 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:10:54 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 23:10:54 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 23:10:54 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 23:10:54 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:10:59 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:10:59 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:10:59 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:10:59 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:11:02 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:11:02 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:11:02 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:11:06 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:11:06 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:11:22 INFO     Env running in port 2029
+2025-05-03 23:11:22 INFO     Connecting to Carla server at localhost:2029 (attempt 1/5)
+2025-05-03 23:11:28 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:11:28 INFO     Carla server connected on port 2029
+2025-05-03 23:11:28 INFO     Blueprints for vehicle.lincoln*: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:11:28 INFO     Selected blueprint: vehicle.lincoln.mkz2017
+2025-05-03 23:11:28 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:11:28 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:11:32 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:11:32 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:11:32 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:11:37 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:11:37 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:11:37 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:11:37 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:11:41 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 23:11:41 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 23:11:41 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 23:11:41 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:11:46 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:11:46 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:11:46 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:11:46 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:11:49 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:11:49 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:11:49 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:11:53 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:11:53 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:11:53 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:11:53 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:11:59 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 23:11:59 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 23:11:59 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 23:11:59 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:12:04 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:12:04 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:12:04 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:12:04 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:12:07 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:12:07 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:12:07 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:12:12 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:12:12 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:12:19 INFO     Env running in port 2029
+2025-05-03 23:12:19 INFO     Connecting to Carla server at localhost:2029 (attempt 1/5)
+2025-05-03 23:12:26 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:12:26 INFO     Carla server connected on port 2029
+2025-05-03 23:12:26 INFO     Blueprints for vehicle.lincoln*: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:12:26 INFO     Selected blueprint: vehicle.lincoln.mkz2017
+2025-05-03 23:12:26 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:12:26 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:12:29 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:12:29 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:12:29 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:12:34 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:12:34 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:12:34 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:12:34 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:12:38 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 23:12:38 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 23:12:38 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 23:12:38 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:12:43 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:12:43 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:12:43 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:12:43 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:12:46 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:12:46 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:12:46 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:12:50 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:12:50 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:12:50 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:12:50 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:12:55 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 23:12:55 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 23:12:55 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 23:12:55 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:12:59 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:13:00 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:13:00 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:13:00 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:13:02 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:13:02 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:13:02 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:13:07 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:13:07 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:13:38 INFO     Env running in port 2029
+2025-05-03 23:13:38 INFO     Connecting to Carla server at localhost:2029 (attempt 1/5)
+2025-05-03 23:13:44 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:13:44 INFO     Carla server connected on port 2029
+2025-05-03 23:13:44 INFO     Blueprints for vehicle.lincoln*: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:13:44 INFO     Selected blueprint: vehicle.lincoln.mkz2017
+2025-05-03 23:13:45 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:13:45 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:13:51 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:13:51 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:13:51 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:14:04 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:14:04 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:14:04 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:14:04 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:14:09 ERROR    Env step() error
+2025-05-03 23:14:16 INFO     Env running in port 2029
+2025-05-03 23:14:16 INFO     Connecting to Carla server at localhost:2029 (attempt 1/5)
+2025-05-03 23:14:22 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:14:22 INFO     Carla server connected on port 2029
+2025-05-03 23:14:22 INFO     Blueprints for vehicle.lincoln*: ['vehicle.lincoln.mkz2017']
+2025-05-03 23:14:22 INFO     Selected blueprint: vehicle.lincoln.mkz2017
+2025-05-03 23:14:23 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:14:23 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:14:31 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:14:31 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:14:31 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:14:45 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:14:45 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:14:45 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:14:45 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:14:59 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 23:14:59 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 23:14:59 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 23:14:59 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:15:14 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:15:14 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:15:14 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:15:14 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:15:28 DEBUG    Time out! Episode cost 250 steps in route 0.
+2025-05-03 23:15:28 DEBUG    Time out! Episode cost 251 steps in route 0.
+2025-05-03 23:15:28 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:15:28 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:15:42 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:15:42 DEBUG    Time out! Episode cost 251 steps in route 1.
+2025-05-03 23:15:42 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.070000, y=201.770004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.430000, roll=0.000000))
+2025-05-03 23:15:42 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:15:57 DEBUG    Time out! Episode cost 250 steps in route 2.
+2025-05-03 23:15:57 DEBUG    Time out! Episode cost 251 steps in route 2.
+2025-05-03 23:15:57 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=108.029999, y=205.270004, z=0.500000), Rotation(pitch=0.000000, yaw=-4.270000, roll=0.000000))
+2025-05-03 23:15:57 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:16:11 DEBUG    Time out! Episode cost 250 steps in route 3.
+2025-05-03 23:16:11 DEBUG    Time out! Episode cost 251 steps in route 3.
+2025-05-03 23:16:11 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=58.070000, y=-186.699997, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:16:11 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:16:19 DEBUG    Right Lane invasion! Episode cost 133 steps in route 0.
+2025-05-03 23:16:19 INFO     Attempting to spawn vehicle at transform: Transform(Location(x=60.130001, y=-190.210007, z=0.500000), Rotation(pitch=0.000000, yaw=359.760010, roll=0.000000))
+2025-05-03 23:16:19 INFO     Spawned vehicle with type_id: vehicle.lincoln.mkz2017
+2025-05-03 23:16:34 DEBUG    Time out! Episode cost 250 steps in route 1.
+2025-05-03 23:16:34 DEBUG    Time out! Episode cost 251 steps in route 1.
