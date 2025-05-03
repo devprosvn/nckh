@@ -57,8 +57,7 @@ class CarlaEnv(gym.Env):
         self.route_deterministic_id = 0
 
         # Create the ego vehicle blueprint
-        self.ego_bp = self._create_vehicle_bluepprint(
-            params['ego_vehicle_filter'], color='49,8,8')
+        self.ego_bp = self._create_vehicle_bluepprint('vehicle.tesla.model3')
 
         # Collision sensor
         self.collision_hist = []  # The collision history
@@ -346,6 +345,14 @@ class CarlaEnv(gym.Env):
     def _create_vehicle_bluepprint(self, actor_filter, color=None, number_of_wheels=[4]):
         blueprints = self.world.get_blueprint_library().filter(actor_filter)
         self.logger.info("Blueprints for %s: %s", actor_filter, [bp.id for bp in blueprints])
+        if not blueprints:
+            if actor_filter == 'vehicle.tesla.model3':
+                self.logger.warning("No %s blueprints found, falling back to vehicle.*", actor_filter)
+                blueprints = self.world.get_blueprint_library().filter('vehicle.*')
+                self.logger.info("Fallback blueprints: %s", [bp.id for bp in blueprints])
+            else:
+                self.logger.error("No blueprints found for %s", actor_filter)
+                raise RuntimeError("No valid blueprints found for %s" % actor_filter)
         blueprint_library = []
         for nw in number_of_wheels:
             blueprint_library = blueprint_library + [x for x in blueprints if int(x.get_attribute('number_of_wheels')) == nw]
@@ -359,7 +366,8 @@ class CarlaEnv(gym.Env):
             bp.set_attribute('color', color)
         self.logger.info("Selected blueprint: %s", bp.id)
         return bp
-
+    
+    
     def _get_ego_pos(self):
         """Get the ego vehicle pose (x, y)."""
         ego_trans = self.ego.get_transform()

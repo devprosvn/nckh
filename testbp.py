@@ -12,7 +12,7 @@ try:
     logger.info("All blueprints: %s", [bp.id for bp in blueprints])
     vehicle_blueprints = world.get_blueprint_library().filter('vehicle.*')
     logger.info("Vehicle blueprints: %s", [bp.id for bp in vehicle_blueprints])
-    lincoln_blueprints = world.get_blueprint_library().filter('vehicle.lincoln*')
-    logger.info("Lincoln blueprints: %s", [bp.id for bp in lincoln_blueprints])
+    tesla_blueprints = world.get_blueprint_library().filter('vehicle.tesla.model3')
+    logger.info("Tesla Model 3 blueprints: %s", [bp.id for bp in tesla_blueprints])
 except Exception as e:
     logger.error("Error: %s", str(e))

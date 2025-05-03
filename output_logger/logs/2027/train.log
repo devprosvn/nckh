@@ -1,0 +1,42 @@
+2025-05-03 07:09:15 INFO     Env running in port 2027
+2025-05-03 07:09:15 INFO     Connecting to Carla server at localhost:2027 (attempt 1/5)
+2025-05-03 07:09:20 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 07:09:20 INFO     Carla server connected on port 2027
+2025-05-03 07:09:20 INFO     Blueprints for vehicle.lincoln*: ['vehicle.lincoln.mkz2017']
+2025-05-03 07:09:20 INFO     Selected blueprint: vehicle.lincoln.mkz2017
+2025-05-03 07:10:49 INFO     Env running in port 2027
+2025-05-03 07:10:49 INFO     Connecting to Carla server at localhost:2027 (attempt 1/5)
+2025-05-03 07:10:54 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 07:10:54 INFO     Carla server connected on port 2027
+2025-05-03 07:10:54 INFO     Blueprints for vehicle.lincoln*: ['vehicle.lincoln.mkz2017']
+2025-05-03 07:10:54 INFO     Selected blueprint: vehicle.lincoln.mkz2017
+2025-05-03 07:13:48 INFO     Env running in port 2027
+2025-05-03 07:13:48 INFO     Connecting to Carla server at localhost:2027 (attempt 1/5)
+2025-05-03 07:13:53 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 07:13:53 INFO     Carla server connected on port 2027
+2025-05-03 07:13:53 INFO     Blueprints for vehicle.lincoln*: ['vehicle.lincoln.mkz2017']
+2025-05-03 07:13:53 INFO     Selected blueprint: vehicle.lincoln.mkz2017
+2025-05-03 07:16:52 INFO     Env running in port 2027
+2025-05-03 07:16:52 INFO     Connecting to Carla server at localhost:2027 (attempt 1/5)
+2025-05-03 07:16:57 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 07:16:57 INFO     Carla server connected on port 2027
+2025-05-03 07:16:57 INFO     Blueprints for vehicle.tesla.model3: ['vehicle.tesla.model3']
+2025-05-03 07:16:57 INFO     Selected blueprint: vehicle.tesla.model3
+2025-05-03 07:17:48 INFO     Env running in port 2027
+2025-05-03 07:17:48 INFO     Connecting to Carla server at localhost:2027 (attempt 1/5)
+2025-05-03 07:17:53 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 07:17:53 INFO     Carla server connected on port 2027
+2025-05-03 07:17:53 INFO     Blueprints for vehicle.tesla.model3: ['vehicle.tesla.model3']
+2025-05-03 07:17:53 INFO     Selected blueprint: vehicle.tesla.model3
+2025-05-03 07:22:52 INFO     Env running in port 2027
+2025-05-03 07:22:52 INFO     Connecting to Carla server at localhost:2027 (attempt 1/5)
+2025-05-03 07:22:57 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 07:22:57 INFO     Carla server connected on port 2027
+2025-05-03 07:22:57 INFO     Blueprints for vehicle.tesla.model3: ['vehicle.tesla.model3']
+2025-05-03 07:22:57 INFO     Selected blueprint: vehicle.tesla.model3
+2025-05-03 07:23:07 INFO     Env running in port 2027
+2025-05-03 07:23:07 INFO     Connecting to Carla server at localhost:2027 (attempt 1/5)
+2025-05-03 07:23:12 INFO     Available vehicle.lincoln* blueprints: ['vehicle.lincoln.mkz2017']
+2025-05-03 07:23:12 INFO     Carla server connected on port 2027
+2025-05-03 07:23:13 INFO     Blueprints for vehicle.tesla.model3: ['vehicle.tesla.model3']
+2025-05-03 07:23:13 INFO     Selected blueprint: vehicle.tesla.model3

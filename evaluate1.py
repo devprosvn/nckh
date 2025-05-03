@@ -18,7 +18,11 @@ import time
 from collections import deque
 
 import paddle
+# paddle.set_device("gpu:0")
 paddle.set_device("cpu")
+
+import logging
+logger = logging.getLogger(__name__)
 
 import moviepy.editor as mvp
 import numpy as np
@@ -92,9 +96,9 @@ def _frames_to_video(frames, out_file: pathlib.Path, fps: int):
 def run_episode(agent, env, episode_idx, video_dir, fps):
     world = env.unwrapped.world
     world.tick()  # Ensure world state is updated
-    actors = world.get_actors().filter('vehicle.lincoln*')
+    actors = world.get_actors().filter('vehicle.tesla.model3')
     if not actors:
-        logger.error("No vehicle.lincoln* actors found. Available actors: %s",
+        logger.error("No vehicle.tesla.model3 actors found. Available actors: %s",
                      [a.type_id for a in world.get_actors()])
         raise RuntimeError("No ego vehicle found")
     vehicle = actors[0]
