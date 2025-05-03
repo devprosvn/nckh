@@ -1,0 +1,30 @@
+2025-05-03 19:46:01 INFO     Env running in port 2000
+2025-05-03 19:46:01 INFO     connecting to Carla server...
+2025-05-03 19:46:14 ERROR    Fail to connect to carla-server...sleeping for 2
+2025-05-03 19:46:16 INFO     connecting to Carla server...
+2025-05-03 19:46:28 ERROR    Fail to connect to carla-server...sleeping for 2
+2025-05-03 19:46:30 INFO     connecting to Carla server...
+2025-05-03 19:46:42 INFO     Carla server port 2000 connected!
+2025-05-03 19:49:32 INFO     Env running in port 2000
+2025-05-03 19:49:32 INFO     connecting to Carla server...
+2025-05-03 19:49:38 INFO     Carla server port 2000 connected!
+2025-05-03 19:56:36 INFO     Env running in port 2000
+2025-05-03 19:56:36 INFO     connecting to Carla server...
+2025-05-03 19:56:42 INFO     Carla server port 2000 connected!
+2025-05-03 19:59:05 INFO     Env running in port 2000
+2025-05-03 19:59:05 INFO     connecting to Carla server...
+2025-05-03 19:59:11 INFO     Carla server port 2000 connected!
+2025-05-03 20:04:52 INFO     Env running in port 2000
+2025-05-03 20:04:52 INFO     connecting to Carla server...
+2025-05-03 20:04:58 INFO     Carla server port 2000 connected!
+2025-05-03 20:13:08 INFO     Env running in port 2000
+2025-05-03 20:13:08 INFO     Connecting to Carla server at localhost:2000 (attempt 1/5)
+2025-05-03 20:13:28 ERROR    Failed to connect to Carla server: time-out of 20000ms while waiting for the simulator, make sure the simulator is ready and connected to localhost:2000
+2025-05-03 20:13:30 INFO     Connecting to Carla server at localhost:2000 (attempt 2/5)
+2025-05-03 20:13:50 ERROR    Failed to connect to Carla server: time-out of 20000ms while waiting for the simulator, make sure the simulator is ready and connected to localhost:2000
+2025-05-03 20:13:52 INFO     Connecting to Carla server at localhost:2000 (attempt 3/5)
+2025-05-03 20:14:32 ERROR    Failed to connect to Carla server: time-out of 20000ms while waiting for the simulator, make sure the simulator is ready and connected to localhost:2000
+2025-05-03 20:14:34 INFO     Connecting to Carla server at localhost:2000 (attempt 4/5)
+2025-05-03 20:15:14 ERROR    Failed to connect to Carla server: time-out of 20000ms while waiting for the simulator, make sure the simulator is ready and connected to localhost:2000
+2025-05-03 20:15:16 INFO     Connecting to Carla server at localhost:2000 (attempt 5/5)
+2025-05-03 20:15:56 ERROR    Failed to connect to Carla server: time-out of 20000ms while waiting for the simulator, make sure the simulator is ready and connected to localhost:2000
